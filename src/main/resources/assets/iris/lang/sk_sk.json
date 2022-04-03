@@ -49,6 +49,6 @@
   "pack.iris.configure.title": "Nastavovať",
   "pack.iris.list.label": "+ Potiahni a pusti tieňovače pre pridanie",
 
-  "label.iris.true": "VYP",
-  "label.iris.false": "ZAP"
+  "label.iris.true": "ZAP",
+  "label.iris.false": "VYP"
 }
